@@ -30,7 +30,6 @@ Deploy a simple static HTML website using **GitHub Pages**.
 ## 📂 Deliverables
 
 - **Live Website Link:** [Click Here](https://kiran-komroju.github.io/el_task6/)  
-- **GitHub Repository Link:** [Click Here](https://github.com/Kiran-Komroju/el_task6>)
 
 ---
 
